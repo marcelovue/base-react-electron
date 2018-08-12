@@ -1,2 +1,2 @@
 node_modules/
-*.host-update.js*
+*.hot-update.js*
